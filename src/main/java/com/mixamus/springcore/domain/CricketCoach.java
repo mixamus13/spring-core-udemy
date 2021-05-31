@@ -11,7 +11,6 @@ public class CricketCoach implements Coach {
     private String emailAddress;
     private String team;
 
-
     // create a no-arg constructor
     public CricketCoach() {
         System.out.println("CricketCoach: inside no-arg constructor");

@@ -1,6 +1,7 @@
 package com.mixamus.springcore.applications;
 
 import com.mixamus.springcore.repository.Coach;
+import org.springframework.context.annotation.Primary;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class BeanScopeDemoApp {
